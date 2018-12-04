@@ -371,4 +371,5 @@ root.configure(menu=menubar)  # custom system display
 root.mainloop()               # starts the program
 
 
-# program by Alexander bediako alexbedgh@yahoo.com
+# program by
+# Alexander bediako alexbedgh@yahoo.com
