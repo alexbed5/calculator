@@ -373,3 +373,4 @@ root.mainloop()               # starts the program
 
 # program by
 # Alexander bediako alexbedgh@yahoo.com
+# Beijing
